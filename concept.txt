@@ -1,0 +1,5 @@
+OOPS conepts are:
+Classes and Objects
+Encapsulation
+Inheritance
+Polymorphism
