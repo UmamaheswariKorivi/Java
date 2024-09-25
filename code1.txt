@@ -1,0 +1,7 @@
+Java is a high-end object oriented programming language.
+Java is used to build different applications using:
+JRE
+JVM
+JDBC
+Java works with JSP servlets in which jsp pages are used to embed a java code into frontend html code and make it a jsp.
+
